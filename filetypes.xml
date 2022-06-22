@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="pro" type="Shrinker Config File" />
