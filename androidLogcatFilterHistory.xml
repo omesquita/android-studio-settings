@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine migrationManager | MigrationPreferencesLocalStorage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine migrationManager | MigrationPreferencesLocalStorage" />
+        <option value="package:mine migrationManager | migrationMonitoring" />
+        <option value="package:mine migrationManager" />
         <option value="package:mine" />
       </list>
     </option>
