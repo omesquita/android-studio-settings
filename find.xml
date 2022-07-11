@@ -8,9 +8,9 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.kt</mask>
-    <mask>CODEOWNERS</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>CODEOWNERS</mask>
   </component>
 </application>
