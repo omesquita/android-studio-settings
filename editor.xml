@@ -1,10 +1,20 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="KotlinLambdasHintsProvider" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <kotlin.KotlinReferencesTypeHintsProvider>
         <Settings>
@@ -14,6 +24,14 @@
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.KotlinReferencesTypeHintsProvider>
+      <kotlin.kotlin.references.types.hints>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="localVariableType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.kotlin.references.types.hints>
     </settingsMapElement>
   </component>
 </application>
