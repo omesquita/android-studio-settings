@@ -14,6 +14,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.nilsenlabs.flavormatrix">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.androidstudio" />
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="hg4idea">
           <value>
             <PluginData>
