@@ -5,9 +5,10 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PreferencesCacheManagerImpl" />
+    <option name="mostRecentlyUsed" value="package:mine wr-deeplink" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine wr-deeplink" />
         <option value="package:mine" />
         <option value="package:mine tag:PreferencesCacheManagerImpl" />
         <option value="package:mine " />
