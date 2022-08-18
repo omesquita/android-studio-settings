@@ -5,13 +5,12 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PreferencesCacheManagerImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:PreferencesCacheManagerImpl" />
         <option value="package:mine cache" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine PreferencesCacheManagerImpl" />
         <option value="package:mine user id" />
         <option value="package:mine tracker" />
