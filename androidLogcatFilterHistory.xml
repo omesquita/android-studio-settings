@@ -7,8 +7,8 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine" />
+        <option value="package:mine " />
         <option value="package:mine tag:PreferencesCacheManagerImpl" />
         <option value="package:mine cache" />
         <option value="package:mine userid" />
