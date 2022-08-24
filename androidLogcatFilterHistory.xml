@@ -8,6 +8,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine userid" />
         <option value="package:mine storage | PreferencesCacheManagerImpl | EncryptedPreferencesDataSourceImpl" />
         <option value="package:mine storage | PreferencesCacheManagerImpl" />
         <option value="package:mine storage|PreferencesCacheManagerImpl" />
@@ -15,7 +16,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:PreferencesCacheManagerImpl" />
         <option value="package:mine cache" />
-        <option value="package:mine userid" />
         <option value="package:mine userId:" />
         <option value="package:mine PreferencesCacheManagerImpl" />
         <option value="package:mine user id" />
