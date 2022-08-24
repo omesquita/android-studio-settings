@@ -5,16 +5,16 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine userid" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine userid" />
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine userid" />
         <option value="package:mine storage | PreferencesCacheManagerImpl | EncryptedPreferencesDataSourceImpl" />
         <option value="package:mine storage | PreferencesCacheManagerImpl" />
         <option value="package:mine storage|PreferencesCacheManagerImpl" />
         <option value="package:mine storage" />
-        <option value="package:mine" />
         <option value="package:mine tag:PreferencesCacheManagerImpl" />
         <option value="package:mine cache" />
         <option value="package:mine userId:" />
