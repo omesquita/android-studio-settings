@@ -5,11 +5,12 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine userid" />
+    <option name="mostRecentlyUsed" value="package:mine newrelic" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine newrelic" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine userid" />
         <option value="package:mine storage | PreferencesCacheManagerImpl | EncryptedPreferencesDataSourceImpl" />
         <option value="package:mine storage | PreferencesCacheManagerImpl" />
