@@ -5,9 +5,10 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
+    <option name="mostRecentlyUsed" value="package:mine newrelic " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine newrelic " />
         <option value="package:mine " />
         <option value="package:mine newrelic" />
         <option value="package:mine" />
