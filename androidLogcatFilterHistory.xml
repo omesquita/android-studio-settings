@@ -5,9 +5,11 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine PreferencesAccessor | PreferencesCacheManagerImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PreferencesAccessor | PreferencesCacheManagerImpl" />
+        <option value="package:mine PreferencesAccessor " />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine newrelic " />
@@ -26,8 +28,6 @@
         <option value="package:mine wr-deeplink" />
         <option value="package:mine \\" />
         <option value="package:mine migrationManager | MigrationPreferencesLocalStorage" />
-        <option value="package:mine migrationManager | migrationMonitoring" />
-        <option value="package:mine migrationManager" />
       </list>
     </option>
   </component>
