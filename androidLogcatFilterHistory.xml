@@ -8,8 +8,9 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine PreferencesAccessor | PreferencesCacheManagerImpl" />
         <option value="package:mine" />
+        <option value="package:mine PreferencesAccessor | PreferencesCacheManagerImpl | SerializedPreference" />
+        <option value="package:mine PreferencesAccessor | PreferencesCacheManagerImpl" />
         <option value="package:mine PreferencesAccessor " />
         <option value="package:mine " />
         <option value="package:mine newrelic " />
@@ -27,7 +28,6 @@
         <option value="package:mine tracker" />
         <option value="package:mine wr-deeplink" />
         <option value="package:mine \\" />
-        <option value="package:mine migrationManager | MigrationPreferencesLocalStorage" />
       </list>
     </option>
   </component>
