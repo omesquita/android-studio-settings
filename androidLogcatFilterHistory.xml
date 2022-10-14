@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
+    <option name="mostRecentlyUsed" value="package:mine delegate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine delegate" />
+        <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine tag:module delegate" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
         <option value="package:mine PreferencesDataSourceFacade | " />
-        <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine Dialog" />
         <option value="package:mine level:ERROR" />
         <option value="package:mine level:ERROR | Dialog" />
@@ -21,8 +23,6 @@
         <option value="package:mine userid" />
         <option value="package:mine storage | PreferencesCacheManagerImpl | EncryptedPreferencesDataSourceImpl" />
         <option value="package:mine storage | PreferencesCacheManagerImpl" />
-        <option value="package:mine storage|PreferencesCacheManagerImpl" />
-        <option value="package:mine storage" />
       </list>
     </option>
   </component>
