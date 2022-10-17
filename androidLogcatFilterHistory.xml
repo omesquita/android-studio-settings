@@ -1,10 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference SELFIE_URI_KEY" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference SELFIE_URI_KEY" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
+        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference FRONT_URI_KEY" />
+        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference HASH_KEY" />
+        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference BACK_URI_KEY" />
+        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference URI_KEY " />
+        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference | URI_KEY " />
+        <option value="package:mine" />
         <option value="package:mine delegate" />
         <option value="package:mine " />
         <option value="package:mine tag:module delegate" />
@@ -17,12 +23,6 @@
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManagerImpl | SerializedPreference" />
         <option value="package:mine PreferencesAccessor | PreferencesCacheManagerImpl | SerializedPreference" />
         <option value="package:mine PreferencesAccessor | PreferencesCacheManagerImpl" />
-        <option value="package:mine PreferencesAccessor " />
-        <option value="package:mine newrelic " />
-        <option value="package:mine newrelic" />
-        <option value="package:mine userid" />
-        <option value="package:mine storage | PreferencesCacheManagerImpl | EncryptedPreferencesDataSourceImpl" />
-        <option value="package:mine storage | PreferencesCacheManagerImpl" />
       </list>
     </option>
   </component>
