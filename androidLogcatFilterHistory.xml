@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine  tag:&quot;snack-tag&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR" />
+        <option value="package:mine" />
         <option value="package:mine  tag:&quot;snack-tag&quot;" />
         <option value="package:mine  " />
         <option value="package:mine  config" />
@@ -10,8 +12,6 @@
         <option value="package:mine level:WARN " />
         <option value="package:mine config" />
         <option value="package:mine " />
-        <option value="package:mine" />
-        <option value="package:mine level:ERROR" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference SELFIE_URI_KEY" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference FRONT_URI_KEY" />
