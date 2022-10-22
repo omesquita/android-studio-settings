@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:ERROR" />
         <option value="package:mine" />
+        <option value="package:mine level:ERROR" />
         <option value="package:mine  tag:&quot;snack-tag&quot;" />
         <option value="package:mine  " />
         <option value="package:mine  config" />
