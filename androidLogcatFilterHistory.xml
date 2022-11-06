@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine !Accessing hidden method" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine !Accessing hidden method" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine config | launcher" />
         <option value="package:mine config | launcher |" />
         <option value="package:mine config | launcher | subscribe | stale | message | flags" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:WARN " />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference SELFIE_URI_KEY" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference FRONT_URI_KEY" />
       </list>
     </option>
   </component>
