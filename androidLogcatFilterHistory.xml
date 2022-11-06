@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine config | launcher | subscribe | stale | message | flags" />
+    <option name="mostRecentlyUsed" value="package:mine config | launcher" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine config | launcher" />
+        <option value="package:mine config | launcher |" />
         <option value="package:mine config | launcher | subscribe | stale | message | flags" />
         <option value="package:mine config | launcher | subscribe | stale | message" />
         <option value="package:mine " />
         <option value="package:mine config | launcher | subscribe | stale" />
         <option value="package:mine config | launcher | subscribe" />
-        <option value="package:mine config | launcher" />
         <option value="package:mine" />
         <option value="package:mine config" />
         <option value="package:mine tag:RemoteConfigManagerImpl" />
@@ -22,7 +23,6 @@
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference SELFIE_URI_KEY" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference FRONT_URI_KEY" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference HASH_KEY" />
       </list>
     </option>
   </component>
