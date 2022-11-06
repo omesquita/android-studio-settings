@@ -4,7 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine -message:Access" />
+        <option value="package:mine" />
+        <option value="package:mine Sub" />
         <option value="package:mine " />
+        <option value="package:mine -message:Access -tag:com.newrelic.android" />
+        <option value="package:mine -message:Access -message:Harvester" />
         <option value="package:mine -Access" />
         <option value="package:mine (?!.*\bAccess\b).*" />
         <option value="package:mine (?!.*\bAccess\b)" />
@@ -19,10 +23,6 @@
         <option value="package:mine (?!Accessing)" />
         <option value="package:mine ^/(?!Accessing)" />
         <option value="package:mine ^(?Accessing hidden method" />
-        <option value="package:mine ^Accessing hidden method" />
-        <option value="package:mine !Accessing hidden method" />
-        <option value="package:mine" />
-        <option value="package:mine config | launcher" />
       </list>
     </option>
   </component>
