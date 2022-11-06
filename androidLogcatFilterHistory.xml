@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine config | launcher | subscribe | stale | message" />
+    <option name="mostRecentlyUsed" value="package:mine config | launcher | subscribe | stale | message | flags" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine config | launcher | subscribe | stale | message | flags" />
         <option value="package:mine config | launcher | subscribe | stale | message" />
         <option value="package:mine " />
         <option value="package:mine config | launcher | subscribe | stale" />
@@ -22,7 +23,6 @@
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference FRONT_URI_KEY" />
         <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference HASH_KEY" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference BACK_URI_KEY" />
       </list>
     </option>
   </component>
