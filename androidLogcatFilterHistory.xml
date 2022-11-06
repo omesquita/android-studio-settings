@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine !Accessing hidden method" />
+    <option name="mostRecentlyUsed" value="package:mine -message:Access" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine !Accessing hidden method" />
+        <option value="package:mine -message:Access" />
         <option value="package:mine " />
+        <option value="package:mine -Access" />
+        <option value="package:mine (?!.*\bAccess\b).*" />
+        <option value="package:mine (?!.*\bAccess\b)" />
+        <option value="package:mine (?!.*Access" />
+        <option value="package:mine (.*Access" />
+        <option value="package:mine Access" />
+        <option value="package:mine ^Acc" />
+        <option value="package:mine .*(?!Access).*" />
+        <option value="package:mine (?!Access).*" />
+        <option value="package:mine (?!Accessing).*" />
+        <option value="package:mine (?Accessing)" />
+        <option value="package:mine (?!Accessing)" />
+        <option value="package:mine ^/(?!Accessing)" />
+        <option value="package:mine ^(?Accessing hidden method" />
+        <option value="package:mine ^Accessing hidden method" />
+        <option value="package:mine !Accessing hidden method" />
         <option value="package:mine" />
         <option value="package:mine config | launcher" />
-        <option value="package:mine config | launcher |" />
-        <option value="package:mine config | launcher | subscribe | stale | message | flags" />
-        <option value="package:mine config | launcher | subscribe | stale | message" />
-        <option value="package:mine config | launcher | subscribe | stale" />
-        <option value="package:mine config | launcher | subscribe" />
-        <option value="package:mine config" />
-        <option value="package:mine tag:RemoteConfigManagerImpl" />
-        <option value="package:mine tag:AppStoreRedirection" />
-        <option value="package:mine level:ERROR" />
-        <option value="package:mine  tag:&quot;snack-tag&quot;" />
-        <option value="package:mine  " />
-        <option value="package:mine  config" />
-        <option value="package:mine config " />
-        <option value="package:mine level:WARN " />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference SELFIE_URI_KEY" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
       </list>
     </option>
   </component>
