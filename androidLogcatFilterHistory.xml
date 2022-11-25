@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine -message:Access" />
         <option value="package:mine Sub" />
-        <option value="package:mine " />
         <option value="package:mine -message:Access -tag:com.newrelic.android" />
         <option value="package:mine -message:Access -message:Harvester" />
         <option value="package:mine -Access" />
