@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine erencesMigration" />
         <option value="package:mine" />
         <option value="package:mine -message:Access" />
         <option value="package:mine Sub" />
@@ -21,7 +22,6 @@
         <option value="package:mine (?Accessing)" />
         <option value="package:mine (?!Accessing)" />
         <option value="package:mine ^/(?!Accessing)" />
-        <option value="package:mine ^(?Accessing hidden method" />
       </list>
     </option>
   </component>
