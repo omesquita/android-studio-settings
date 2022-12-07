@@ -1,28 +1,27 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
-        <option value="package:mine level:ERROR" />
-        <option value="package:mine  tag:&quot;snack-tag&quot;" />
-        <option value="package:mine  " />
-        <option value="package:mine  config" />
-        <option value="package:mine config " />
-        <option value="package:mine level:WARN " />
-        <option value="package:mine config" />
         <option value="package:mine " />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference SELFIE_URI_KEY" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference FRONT_URI_KEY" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference HASH_KEY" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference BACK_URI_KEY" />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference URI_KEY " />
-        <option value="package:mine PreferencesDataSourceFacade | PreferencesCacheManager | SerializedPreference | URI_KEY " />
-        <option value="package:mine delegate" />
-        <option value="package:mine tag:module delegate" />
-        <option value="package:mine PreferencesDataSourceFacade | " />
-        <option value="package:mine Dialog" />
+        <option value="package:mine erencesMigration" />
+        <option value="package:mine" />
+        <option value="package:mine -message:Access" />
+        <option value="package:mine Sub" />
+        <option value="package:mine -message:Access -tag:com.newrelic.android" />
+        <option value="package:mine -message:Access -message:Harvester" />
+        <option value="package:mine -Access" />
+        <option value="package:mine (?!.*\bAccess\b).*" />
+        <option value="package:mine (?!.*\bAccess\b)" />
+        <option value="package:mine (?!.*Access" />
+        <option value="package:mine (.*Access" />
+        <option value="package:mine Access" />
+        <option value="package:mine ^Acc" />
+        <option value="package:mine .*(?!Access).*" />
+        <option value="package:mine (?!Access).*" />
+        <option value="package:mine (?!Accessing).*" />
+        <option value="package:mine (?Accessing)" />
+        <option value="package:mine (?!Accessing)" />
+        <option value="package:mine ^/(?!Accessing)" />
       </list>
     </option>
   </component>

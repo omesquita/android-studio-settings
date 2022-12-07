@@ -1,0 +1,15 @@
+<application>
+  <component name="DbProgressState">
+    <option name="spriteState">
+      <map>
+        <entry key="GOKU_RUNNING" value="false" />
+        <entry key="GOKU_JINDUJUN" value="true" />
+        <entry key="GOKU_KAMEHAMEHA_SMALL" value="true" />
+        <entry key="GOKU_KAMEHAMEHA" value="false" />
+        <entry key="GOKU_KI_1" value="false" />
+        <entry key="GOKU_KI_2" value="false" />
+        <entry key="VEGETA_FINAL_FLASH" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
