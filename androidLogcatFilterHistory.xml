@@ -1,7 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter|MigrationMonitoring" />
     <option name="nonFavorites">
       <list>
+        <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter|MigrationMonitoring" />
+        <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter" />
+        <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType" />
+        <option value="package:mine EncryptedSharedPreferencesMigration" />
         <option value="package:mine " />
         <option value="package:mine erencesMigration" />
         <option value="package:mine" />
@@ -18,10 +23,6 @@
         <option value="package:mine ^Acc" />
         <option value="package:mine .*(?!Access).*" />
         <option value="package:mine (?!Access).*" />
-        <option value="package:mine (?!Accessing).*" />
-        <option value="package:mine (?Accessing)" />
-        <option value="package:mine (?!Accessing)" />
-        <option value="package:mine ^/(?!Accessing)" />
       </list>
     </option>
   </component>
