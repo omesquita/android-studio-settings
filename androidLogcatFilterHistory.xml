@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="tag=:TAG" />
@@ -22,7 +23,6 @@
         <option value="package:mine (?!.*\bAccess\b)" />
         <option value="package:mine (?!.*Access" />
         <option value="package:mine (.*Access" />
-        <option value="package:mine Access" />
       </list>
     </option>
   </component>
