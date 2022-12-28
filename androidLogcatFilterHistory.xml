@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -message:Access" />
         <option value="tag=:TAG " />
         <option value="level:error " />
         <option value="package:mine" />
@@ -14,7 +15,6 @@
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType" />
         <option value="package:mine EncryptedSharedPreferencesMigration" />
         <option value="package:mine erencesMigration" />
-        <option value="package:mine -message:Access" />
         <option value="package:mine Sub" />
         <option value="package:mine -message:Access -tag:com.newrelic.android" />
         <option value="package:mine -message:Access -message:Harvester" />
