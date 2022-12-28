@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:TAG " />
         <option value="level:error " />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="tag=:TAG" />
-        <option value="tag=:TAG " />
         <option value="TAG" />
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter|MigrationMonitoring" />
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter" />
