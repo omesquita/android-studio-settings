@@ -1,13 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
+        <option value="package:mine tag=:TransactionExtract | MainActivity | TransactionList" />
+        <option value="package:mine tag=:TransactionExtract | MainActivity" />
+        <option value="package:mine tag=:TransactionExtract|" />
+        <option value="package:mine tag=:" />
+        <option value="package:mine " />
+        <option value="package:mine MainActivity" />
+        <option value="package:mine" />
+        <option value="level:error " />
         <option value="package:mine -message:Access" />
         <option value="tag=:TAG " />
-        <option value="level:error " />
-        <option value="package:mine" />
-        <option value="package:mine " />
         <option value="tag=:TAG" />
         <option value="TAG" />
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter|MigrationMonitoring" />
@@ -17,12 +23,6 @@
         <option value="package:mine erencesMigration" />
         <option value="package:mine Sub" />
         <option value="package:mine -message:Access -tag:com.newrelic.android" />
-        <option value="package:mine -message:Access -message:Harvester" />
-        <option value="package:mine -Access" />
-        <option value="package:mine (?!.*\bAccess\b).*" />
-        <option value="package:mine (?!.*\bAccess\b)" />
-        <option value="package:mine (?!.*Access" />
-        <option value="package:mine (.*Access" />
       </list>
     </option>
   </component>
