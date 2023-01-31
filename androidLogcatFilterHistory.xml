@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine doKeysMigration" />
         <option value="package:mine user_permission" />
         <option value="package:mine uses" />
         <option value="package:mine" />
@@ -21,7 +22,6 @@
         <option value="tag=:TAG" />
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter|MigrationMonitoring" />
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter" />
-        <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType" />
       </list>
     </option>
   </component>
