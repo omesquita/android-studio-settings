@@ -3,6 +3,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine doKeysMigration" />
+        <option value="package:mine user_permission" />
+        <option value="package:mine uses" />
+        <option value="package:mine" />
+        <option value="package:mine toggle" />
         <option value="level:error " />
         <option value="package:mine tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
         <option value="tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
@@ -12,16 +17,11 @@
         <option value="package:mine tag=:TransactionExtract|" />
         <option value="package:mine tag=:" />
         <option value="package:mine MainActivity" />
-        <option value="package:mine" />
         <option value="package:mine -message:Access" />
         <option value="tag=:TAG " />
         <option value="tag=:TAG" />
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter|MigrationMonitoring" />
         <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType|PreferencesDeleter" />
-        <option value="package:tag EncryptedSharedPreferencesMigration|MigrationType" />
-        <option value="package:mine EncryptedSharedPreferencesMigration" />
-        <option value="package:mine erencesMigration" />
-        <option value="package:mine Sub" />
       </list>
     </option>
   </component>
