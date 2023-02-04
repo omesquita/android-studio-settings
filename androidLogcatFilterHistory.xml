@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="level:error " />
         <option value="package:mine doKeysMigration" />
         <option value="package:mine user_permission" />
         <option value="package:mine uses" />
-        <option value="package:mine" />
         <option value="package:mine toggle" />
-        <option value="level:error " />
         <option value="package:mine tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
         <option value="tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
         <option value="TAG" />
