@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:Picasso " />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine tag:MigrationMonitoring | PreferencesDeleter" />
         <option value="package:mine tag:MigrationMonitoring|PreferencesDeleter" />
         <option value="package:mine tag:MigrationMonitoring" />
