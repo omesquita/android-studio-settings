@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Glide" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Glide" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Glide" />
+        <option value="package:mine tag:Glide" />
         <option value="package:mine " />
+        <option value="package:mine tag:GLIDE" />
+        <option value="package:mine Glide" />
         <option value="package:mine tag:Picasso " />
         <option value="package:mine" />
         <option value="package:mine level:error " />
@@ -21,8 +23,6 @@
         <option value="tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
         <option value="TAG" />
         <option value="package:mine tag=:TransactionExtract | MainActivity | TransactionList" />
-        <option value="package:mine tag=:TransactionExtract | MainActivity" />
-        <option value="package:mine tag=:TransactionExtract|" />
       </list>
     </option>
   </component>
