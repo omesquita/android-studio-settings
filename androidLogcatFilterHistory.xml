@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Glide" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:Glide" />
         <option value="package:mine " />
+        <option value="package:mine tag:Glide" />
         <option value="package:mine tag:GLIDE" />
         <option value="package:mine Glide" />
         <option value="package:mine tag:Picasso " />
