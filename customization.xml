@@ -100,6 +100,11 @@
       <path value="RunToolbarWidgetCustomizableActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="EvaluateExpression" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Debug Header Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="StopWithDropDown" icon="jar:file:/Users/tqi_osantos/Library/Application%20Support/JetBrains/Toolbox/apps/AndroidStudio/ch-1/223.7571.182.2231.9523943/Android%20Studio%20Preview.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
