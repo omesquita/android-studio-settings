@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine metri" />
+        <option value="package:mine analytics" />
+        <option value="package:mine customer:" />
         <option value="package:mine" />
         <option value="package:mine customerId" />
-        <option value="package:mine " />
         <option value="package:mine tag:ImageLoader" />
         <option value="package:mine tag:Glide" />
         <option value="package:mine tag:GLIDE" />
@@ -20,9 +22,6 @@
         <option value="package:mine doKeysMigration" />
         <option value="package:mine user_permission" />
         <option value="package:mine uses" />
-        <option value="package:mine toggle" />
-        <option value="package:mine tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
-        <option value="tag=:TransactionExtract | MainActivity | TransactionList | DetailsExtract" />
       </list>
     </option>
   </component>
