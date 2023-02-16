@@ -3,10 +3,14 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine migration" />
+        <option value="package:mine" />
+        <option value="package:mine Start legacy storage migration of the keys" />
+        <option value="package:mine customerid" />
+        <option value="package:mine metric" />
         <option value="package:mine metri" />
         <option value="package:mine analytics" />
         <option value="package:mine customer:" />
-        <option value="package:mine" />
         <option value="package:mine customerId" />
         <option value="package:mine tag:ImageLoader" />
         <option value="package:mine tag:Glide" />
@@ -17,11 +21,7 @@
         <option value="package:mine tag:MigrationMonitoring | PreferencesDeleter" />
         <option value="package:mine tag:MigrationMonitoring|PreferencesDeleter" />
         <option value="package:mine tag:MigrationMonitoring" />
-        <option value="package:mine migration" />
         <option value="level:error " />
-        <option value="package:mine doKeysMigration" />
-        <option value="package:mine user_permission" />
-        <option value="package:mine uses" />
       </list>
     </option>
   </component>
