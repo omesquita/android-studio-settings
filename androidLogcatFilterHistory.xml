@@ -2,19 +2,17 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType" />
+        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor | PreferencesDeleter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring" />
-        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter" />
-        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor" />
-        <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor" />
+        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor | PreferencesDeleter" />
+        <option value="package:mine " />
         <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade" />
         <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | " />
         <option value="package:mine tag:MigrationSkipper|" />
-        <option value="package:mine " />
         <option value="package:mine migration" />
         <option value="package:mine" />
         <option value="package:mine Start legacy storage migration of the keys" />
