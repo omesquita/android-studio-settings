@@ -1,7 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring" />
+        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter" />
+        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor" />
+        <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor" />
+        <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade" />
+        <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | " />
+        <option value="package:mine tag:MigrationSkipper|" />
         <option value="package:mine " />
         <option value="package:mine migration" />
         <option value="package:mine" />
@@ -15,13 +23,6 @@
         <option value="package:mine tag:ImageLoader" />
         <option value="package:mine tag:Glide" />
         <option value="package:mine tag:GLIDE" />
-        <option value="package:mine Glide" />
-        <option value="package:mine tag:Picasso " />
-        <option value="package:mine level:error " />
-        <option value="package:mine tag:MigrationMonitoring | PreferencesDeleter" />
-        <option value="package:mine tag:MigrationMonitoring|PreferencesDeleter" />
-        <option value="package:mine tag:MigrationMonitoring" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
