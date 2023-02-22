@@ -1,6 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring" />
+    <option name="favorites">
+      <list>
+        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType" />
+      </list>
+    </option>
     <option name="nonFavorites">
       <list>
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring" />
@@ -22,7 +26,6 @@
         <option value="package:mine customerId" />
         <option value="package:mine tag:ImageLoader" />
         <option value="package:mine tag:Glide" />
-        <option value="package:mine tag:GLIDE" />
       </list>
     </option>
   </component>
