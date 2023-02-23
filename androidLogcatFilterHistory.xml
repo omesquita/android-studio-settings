@@ -5,16 +5,18 @@
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine RemoteConfig" />
         <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine MyAccountApplication" />
+        <option value="package:mine RemoteConfig" />
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor | PreferencesDeleter" />
         <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade" />
         <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | " />
         <option value="package:mine tag:MigrationSkipper|" />
         <option value="package:mine migration" />
-        <option value="package:mine" />
         <option value="package:mine Start legacy storage migration of the keys" />
         <option value="package:mine customerid" />
         <option value="package:mine metric" />
