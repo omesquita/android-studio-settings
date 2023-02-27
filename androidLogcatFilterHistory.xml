@@ -5,14 +5,14 @@
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:com.newrelic.android" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine -tag:com.newrelic.android" />
         <option value="package:mine -tag:com.newrelic.android -tag:okhttp.OkHttpClient" />
         <option value="package:mine -tag=:com.newrelic.android | okhttp" />
         <option value="package:mine -tag:okhttp.OkHttpClient" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine MyAccountApplication" />
         <option value="package:mine RemoteConfig" />
