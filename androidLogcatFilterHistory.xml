@@ -5,15 +5,21 @@
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MigrationSkipper " />
         <option value="package:mine " />
+        <option value="package:mine tag=:PagBank-MigrationSkipper" />
+        <option value="package:mine tag=:PagBank-MigrationSkipper " />
+        <option value="package:mine tag=:MigrationSkipper" />
+        <option value="package:mine -tag:com.newrelic.android -tag=:[Koin]" />
+        <option value="package:mine -tag:com.newrelic.android TOKEN" />
+        <option value="package:mine" />
         <option value="package:mine -tag:com.newrelic.android" />
         <option value="package:mine -tag:com.newrelic.android -tag:okhttp.OkHttpClient" />
         <option value="package:mine -tag=:com.newrelic.android | okhttp" />
         <option value="package:mine -tag:okhttp.OkHttpClient" />
-        <option value="package:mine" />
         <option value="package:mine MyAccountApplication" />
         <option value="package:mine RemoteConfig" />
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor | PreferencesDeleter" />
@@ -22,12 +28,6 @@
         <option value="package:mine tag:MigrationSkipper|" />
         <option value="package:mine migration" />
         <option value="package:mine Start legacy storage migration of the keys" />
-        <option value="package:mine customerid" />
-        <option value="package:mine metric" />
-        <option value="package:mine metri" />
-        <option value="package:mine analytics" />
-        <option value="package:mine customer:" />
-        <option value="package:mine customerId" />
       </list>
     </option>
   </component>
