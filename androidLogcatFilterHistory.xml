@@ -5,11 +5,22 @@
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:com.newrelic.android -tag:[Koin] -tag:okhttp.OkHttpClient -tag:pushio" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:com.newrelic.android -tag:[Koin] -tag:okhttp.OkHttpClient -tag:pushio" />
+        <option value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient --tag:pushio" />
         <option value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient " />
+        <option value="package:mine" />
+        <option value="package:mine tag:MigrationSkipper | tag:StorageFeatureFlag | tag:PreferencesDataSourceFacade | tag:MigrationExecutor | tag:PreferencesDeleter | tag:MigrationMonitoring | tag:MigrationType | tag:MigrationExecutor" />
         <option value="package:mine tag=:MigrationSkipper" />
+        <option value="package:mine tag:PagBank-PreferencesCacheManager | tag:NewRelicTracker-NewRelicTracker" />
+        <option value="package:mine tag:PagBank-PreferencesCacheManager | NewRelicTracker-NewRelicTracker" />
+        <option value="package:mine tag:PagBank-PreferencesCacheManager" />
+        <option value="package:mine tag:PagBank-PreferencesCacheManager &amp; tag:NewRelicTracker-NewRelicTracker" />
+        <option value="package:mine tag:PagBank-PreferencesCacheManager tag:NewRelicTracker-NewRelicTracker" />
+        <option value="package:mine tag:PagBank-PreferencesCacheManager | Newrelic" />
+        <option value="package:mine newrelic" />
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor --tag=:AndroidKeysetManage" />
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor --tag=:AndroidKeysetManager" />
         <option value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient" />
@@ -17,17 +28,6 @@
         <option value="package:mine " />
         <option value="package:mine tag=:PagBank-MigrationSkipper" />
         <option value="package:mine tag=:PagBank-MigrationSkipper " />
-        <option value="package:mine -tag:com.newrelic.android -tag=:[Koin]" />
-        <option value="package:mine -tag:com.newrelic.android TOKEN" />
-        <option value="package:mine" />
-        <option value="package:mine -tag:com.newrelic.android" />
-        <option value="package:mine -tag:com.newrelic.android -tag:okhttp.OkHttpClient" />
-        <option value="package:mine -tag=:com.newrelic.android | okhttp" />
-        <option value="package:mine -tag:okhttp.OkHttpClient" />
-        <option value="package:mine MyAccountApplication" />
-        <option value="package:mine RemoteConfig" />
-        <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor | PreferencesDeleter" />
-        <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade" />
       </list>
     </option>
   </component>
