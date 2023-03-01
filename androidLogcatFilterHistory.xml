@@ -5,9 +5,11 @@
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor --tag=:AndroidKeysetManage" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient " />
+        <option value="package:mine tag=:MigrationSkipper" />
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor --tag=:AndroidKeysetManage" />
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor --tag=:AndroidKeysetManager" />
         <option value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient" />
@@ -15,7 +17,6 @@
         <option value="package:mine " />
         <option value="package:mine tag=:PagBank-MigrationSkipper" />
         <option value="package:mine tag=:PagBank-MigrationSkipper " />
-        <option value="package:mine tag=:MigrationSkipper" />
         <option value="package:mine -tag:com.newrelic.android -tag=:[Koin]" />
         <option value="package:mine -tag:com.newrelic.android TOKEN" />
         <option value="package:mine" />
@@ -27,7 +28,6 @@
         <option value="package:mine RemoteConfig" />
         <option value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor | PreferencesDeleter" />
         <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade" />
-        <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | " />
       </list>
     </option>
   </component>
