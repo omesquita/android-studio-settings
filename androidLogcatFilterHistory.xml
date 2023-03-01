@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine MigrationSkipper | StorageFeatureFlag | PreferencesDataSourceFacade | MigrationExecutor | PreferencesDeleter | MigrationMonitoring | MigrationType | MigrationExecutor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient" />
         <option value="package:mine tag:MigrationSkipper " />
         <option value="package:mine " />
         <option value="package:mine tag=:PagBank-MigrationSkipper" />
@@ -27,7 +28,6 @@
         <option value="package:mine tag:MigrationSkipper | StorageFeatureFlag | " />
         <option value="package:mine tag:MigrationSkipper|" />
         <option value="package:mine migration" />
-        <option value="package:mine Start legacy storage migration of the keys" />
       </list>
     </option>
   </component>
