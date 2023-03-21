@@ -5,12 +5,12 @@
         <option value="package:mine tag:MigrationSkipper | tag:StorageFeatureFlag | tag:PreferencesDataSourceFacade | tag:MigrationExecutor | tag:PreferencesDeleter | tag:MigrationMonitoring | tag:MigrationType" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="-tag:[Koin] -tag:pushio" />
+    <option name="mostRecentlyUsed" value="tag:AMT " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AMT " />
         <option value="-tag:[Koin] -tag:pushio" />
         <option value="package:br.com.uol.ps.myaccount" />
-        <option value="package:mine " />
         <option value="Storage" />
         <option value="package:mine" />
         <option value="package:mine -tag:[Koin] -tag:pushio" />
