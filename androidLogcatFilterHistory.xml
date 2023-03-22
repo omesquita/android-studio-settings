@@ -5,9 +5,10 @@
         <option value="package:mine tag:MigrationSkipper | tag:StorageFeatureFlag | tag:PreferencesDataSourceFacade | tag:MigrationExecutor | tag:PreferencesDeleter | tag:MigrationMonitoring | tag:MigrationType" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:[Koin] " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:[Koin] " />
         <option value="level:error " />
         <option value="tag:Slider " />
         <option value="tag:AMT " />
@@ -27,7 +28,6 @@
         <option value="package:mine tag=:MigrationSkipper" />
         <option value="package:mine tag:PagBank-PreferencesCacheManager | tag:NewRelicTracker-NewRelicTracker" />
         <option value="package:mine tag:PagBank-PreferencesCacheManager | NewRelicTracker-NewRelicTracker" />
-        <option value="package:mine tag:PagBank-PreferencesCacheManager" />
       </list>
     </option>
   </component>
