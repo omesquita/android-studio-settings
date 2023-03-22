@@ -8,14 +8,14 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="Storage" />
         <option value="tag:[Koin] " />
         <option value="level:error " />
         <option value="tag:Slider " />
         <option value="tag:AMT " />
         <option value="-tag:[Koin] -tag:pushio" />
         <option value="package:br.com.uol.ps.myaccount" />
-        <option value="Storage" />
-        <option value="package:mine" />
         <option value="package:mine -tag:[Koin] -tag:pushio" />
         <option value="package:mine -tag:[Koin] -tag:pushio customer:" />
         <option value="package:mine -tag:[Koin] -tag:okhttp.OkHttpClient -tag:pushio" />
