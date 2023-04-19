@@ -5,9 +5,9 @@
         <option value="package:mine tag:MigrationSkipper | tag:StorageFeatureFlag | tag:PreferencesDataSourceFacade | tag:MigrationExecutor | tag:PreferencesDeleter | tag:MigrationMonitoring | tag:MigrationType" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="Storage" />
         <option value="tag:[Koin] " />
@@ -27,7 +27,6 @@
         <option value="package:mine -tag:com.newrelic.android -tag=:[Koin] -tag=:okhttp.OkHttpClient " />
         <option value="package:mine tag=:MigrationSkipper" />
         <option value="package:mine tag:PagBank-PreferencesCacheManager | tag:NewRelicTracker-NewRelicTracker" />
-        <option value="package:mine tag:PagBank-PreferencesCacheManager | NewRelicTracker-NewRelicTracker" />
       </list>
     </option>
   </component>
