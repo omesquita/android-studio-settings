@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Suporte com o processo de Release/Esteira
-    url: https://jiraps.atlassian.net/servicedesk/customer/portal/3/group/1325/create/4170
-    about: Em caso de problemas com a esteira Ymir ou com o processo de release, abra chamado no link.
-  - name: Canal Android
-    url: https://teams.microsoft.com/l/channel/19%3A62d85e0cb7ac4aa5a1ee10f40d2972c8%40thread.tacv2/%F0%9F%A4%96%20Android?groupId=a2fdca75-b4f7-49ff-8579-8bfe6dc9e5f9&tenantId=7575b092-fc5f-4f6c-b7a5-9e9ef7aca80d
-    about: Canal no Teams para comunicação e troca de dúvidas
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
