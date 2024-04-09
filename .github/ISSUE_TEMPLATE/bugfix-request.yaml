@@ -20,7 +20,7 @@ body:
     id: cause
     attributes:
       label: Motivo do bug?
-      description: "Por que o bug não foi detectado durante a fase de validação?"\n
+      description: "Por que o bug não foi detectado durante a fase de validação?" \
         "Quais ações podem ser tomadas para evitar a solicitação desse bugfix?"
     validations:
       required: true
