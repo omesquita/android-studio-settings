@@ -37,7 +37,7 @@ body:
     attributes:
       label: Risco para o negócio
       description: Informe o impacto para negócio que esse problema pode causar
-      placeholder: Ex: Dado o crash na tela XPTO, o usuário não consegue completar uma transação financeira.
+      placeholder: ex. Dado o crash na tela XPTO, o usuário não consegue completar uma transação financeira.
     validations:
       required: true
   - type: input
@@ -45,6 +45,6 @@ body:
     attributes:
       label: ReTest
       description: Liste os times que precisam validar a correção do problema
-      placeholder: Ex: Odin, Kattegat
+      placeholder: ex. Odin, Kattegat
     validations:
       required: true
