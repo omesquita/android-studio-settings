@@ -1,27 +1,27 @@
 name: Bugfix Request
-description: File a bug report.
+description: Criar uma solicitação de bugfix.
 title: "[ANDROID][JIRA-ID] - Descrição curto do bugfix"
-labels: ["bug"]
+labels: ["bugfix"]
 body:
   - type: markdown
     attributes:
       value: |
-         Preencha o form com sua solicitação de bugfix.
-         A branch com a correção deverá apontar para a branch da release/x_x.
+        "Preencha o formulário com sua solicitação de bugfix.
+        A branch com a correção deverá apontar para a branch da release/x_x."
   - type: textarea
     id: description
     attributes:
       label: Descrição do bug
       description: Descreva aqui o problema
-      placeholder: ex. app fecha quando clica no botão salvar 
+      placeholder: ex. app fecha quando clica no botão salvar
     validations:
       required: true
   - type: textarea
     id: cause
     attributes:
       label: Motivo do bug?
-      description: Por que o bug não foi detectado durante a fase de validação?
-          Quais ações podem ser tomadas para evitar a solicitação desse bugfix?
+      description: "Por que o bug não foi detectado durante a fase de validação?
+        Quais ações podem ser tomadas para evitar a solicitação desse bugfix?"
     validations:
       required: true
   - type: textarea
