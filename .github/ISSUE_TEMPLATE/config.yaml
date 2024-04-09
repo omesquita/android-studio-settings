@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: Suporte com o processo de Release/Esteira
    url: https://jiraps.atlassian.net/servicedesk/customer/portal/3/group/1325/create/4170
