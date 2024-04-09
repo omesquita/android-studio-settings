@@ -29,7 +29,7 @@ body:
     attributes:
       label: Impacto para o usuário
       description: Detalhe aqui o impacto na experiência do usuário causado por esse problema
-      placeholder: Ex: Ao navegar para a tela XPTO, ocorre um crash para o usuário.
+      placeholder: ex. Ao navegar para a tela XPTO, ocorre um crash para o usuário.
     validations:
       required: true
   - type: textarea
